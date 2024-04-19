@@ -1,0 +1,135 @@
+/*画面幅の設定*/
+.screen-width {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.Login-Width {
+    width: 40%;
+    margin: 0 auto;
+}
+
+/*リンクのデコレーション設定*/
+.link-style{
+    color: gray;
+    text-decoration: none;
+}
+
+.link-style:hover{
+    color: gray;
+    text-decoration: none;
+}
+
+/*ログインタイトル,ログインボタンのスペース*/
+.Login-Title{
+    padding: 20px 0 50px 0;
+}
+
+
+
+/*名前部分の設定*/
+.name {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*スコア表示部分の設定*/
+.score-poket {
+    width: 80%;
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 10px 0 50px 0;
+}
+
+.score {
+    font-size: 3rem;
+    text-align: center;
+}
+
+/*ボタンデザイン*/
+.button-style {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+/*各種選択項目の実装*/
+.button-style.FirstServe {
+    border-color: lightblue; /* 選択状態の時のボーダー色 */
+    box-shadow: 0px 0px 10px lightblue; /* 選択状態の時の影 */
+}
+
+.button-style.SecondServe {
+    border-color: lightblue; /* 選択状態の時のボーダー色 */
+    box-shadow: 0px 0px 10px lightblue; /* 選択状態の時の影 */
+} 
+
+.button-style.ServeCource{
+    border-color: lightblue; /* 選択状態の時のボーダー色 */
+    box-shadow: 0px 0px 10px lightblue; /* 選択状態の時の影 */
+}
+
+.button-style.Return{
+    border-color: lightblue; /* 選択状態の時のボーダー色 */
+    box-shadow: 0px 0px 10px lightblue; /* 選択状態の時の影 */
+}
+
+.button-style.WinShot{
+    border-color: lightblue; /* 選択状態の時のボーダー色 */
+    box-shadow: 0px 0px 10px lightblue; /* 選択状態の時の影 */
+}
+
+
+
+
+/*ボタン下の空白*/
+.under-button-space {
+    padding-bottom: 20px;
+}
+
+.over-pointwin {
+    padding: 40px 0;
+}
+
+/*ポジション用の設定*/
+.center-to-left {
+    text-align: center;
+}
+
+.right {
+    text-align: end;
+}
+
+
+/*ベースのフォントサイズ設定*/
+.default-font {
+    font-size: 1.3rem;
+}
+
+.default-font-bold {
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+
+.position-center {
+    text-align: center;
+}
+
+/*モーダル内の画像用css*/
+.Win_Lose{
+    width: 70%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width:768px) {
+    .screen-width {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    /*ポジション用の設定*/
+    .center-to-left {
+        text-align: start;
+    }
+}
