@@ -9,6 +9,18 @@
     margin: 0 auto;
 }
 
+.Link-Page{
+    padding-top: 20vh;
+}
+
+.Arround-Link{
+    border: solid 3px #777;
+}
+
+.Arround-Button{
+    padding: 10px 0;
+}
+
 /*リンクのデコレーション設定*/
 .link-style{
     color: gray;
