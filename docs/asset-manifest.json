@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PointRecord-app/static/css/main.34c2d2f9.css",
+    "main.js": "/PointRecord-app/static/js/main.574a1c11.js",
+    "static/media/lose.jpg": "/PointRecord-app/static/media/lose.96d24cb6699aba56f434.jpg",
+    "static/media/win.jpg": "/PointRecord-app/static/media/win.7254cd75f5c16621c7b4.jpg",
+    "index.html": "/PointRecord-app/index.html",
+    "main.34c2d2f9.css.map": "/PointRecord-app/static/css/main.34c2d2f9.css.map",
+    "main.574a1c11.js.map": "/PointRecord-app/static/js/main.574a1c11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c2d2f9.css",
+    "static/js/main.574a1c11.js"
+  ]
+}
