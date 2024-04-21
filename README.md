@@ -42,3 +42,4 @@ https://www.figma.com/file/uV8AO3olKi47LS1zHf9ueI/Design-for-the-Web-App?type=wh
 - ~5/15 第一弾アプリケーション作成完了
 - ~6/1 個人利用には問題ない程度のアプリの状態を完成させる(1次デプロイ)
 - ~7/1 団体利用も可能な状態に仕上げる(最終デプロイ)
+
